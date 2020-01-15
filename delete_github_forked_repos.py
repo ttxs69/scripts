@@ -1,3 +1,4 @@
+# pip install PyGithub
 from github import Github
 
 # using username and password
